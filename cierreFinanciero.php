@@ -26,7 +26,7 @@
 			<!-- Nav -->
 				<nav id="nav">
 					<ul class="links">
-						<li><a href="index.html">Inicio</a></li>
+						<li><a href="index.php">Inicio</a></li>
 						<li class="active"><a href="cierreFinanciero.php">Finanzas</a></li>
 						<li><a href="reconocimientos.php">Reconocimientos</a></li>
 						<li><a href="indicadores.php">Indicadores</a></li>
