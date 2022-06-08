@@ -45,9 +45,12 @@
 									<h1>Resultados de nuestros indicadores</h1>
 									<p>Conoce el progreso de nuestros indicadores.</p>
 								</header>
-
+							<h2>Dashboard KPIs - Region Norte Oriente</h2>
 								<iframe title="Reporte KPIs v3" width="1024" height="1060" src="https://app.powerbi.com/view?r=eyJrIjoiMGJkZTAwMzctYTE1NC00MmI2LTgxOTYtN2QwYjkxODg2MTFiIiwidCI6IjVjYWExMTEyLWRiYzctNDcwOS1iNTlhLTUzMTVlOGVkNWRhMCJ9&pageName=ReportSection69945c6c00154edcb78c" frameborder="0" allowFullScreen="true"></iframe>
-							</section>
+							
+							<h2>Dashboard SCL: CD Chimbote</h2>
+							<iframe title="Reporter SFGLI" width="1024" height="1060" src="https://app.powerbi.com/view?r=eyJrIjoiMzNkZjg3YzYtM2ZjNi00YTM4LTlhYjAtOGQwOTk1YWE2YTk5IiwidCI6IjVjYWExMTEyLWRiYzctNDcwOS1iNTlhLTUzMTVlOGVkNWRhMCJ9&pageName=ReportSectionefbff1271c6b37f1adb9" frameborder="0" allowFullScreen="true"></iframe>
+								</section>
 
 						<!-- Posts -->
 			
