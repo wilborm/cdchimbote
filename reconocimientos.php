@@ -26,11 +26,11 @@
 			<!-- Nav -->
 				<nav id="nav">
 					<ul class="links">
-						<li><a href="index.html">Inicio</a></li>
-						<li><a href="cierreFinanciero.html">Finanzas</a></li>
-						<li><a href="reconocimientos.html">Reconocimientos</a></li>
-						<li><a href="indicadores.html">Indicadores</a></li>
-						<li class="active"><a href="eventos.html">Eventos</a></li>
+						<li><a href="index.php">Inicio</a></li>
+						<li><a href="cierreFinanciero.php">Finanzas</a></li>
+						<li class="active"><a href="reconocimientos.php">Reconocimientos</a></li>
+						<li><a href="indicadores.php">Indicadores</a></li>
+						<li><a href="eventos.php">Eventos</a></li>
 					</ul>
 
 				</nav>
@@ -42,39 +42,28 @@
 							<section class="post">
 								<header class="major">
 									<span class="date">Mayo - 2022</span>
-									<h1>Eventos Varios</h1>
-									<p>Recordando los mejores momentos.</p>
+									<h1>Programa de reconocimientos</h1>
+									<p>Felicitaciones a todos los que salieron premiados en las diferentes categorías.</p>
 								</header>
+								<div class="image main"><img src="images/reconocimientos.png" alt="" /></div>
 							</section>
 
 						<!-- Posts -->
 						<section class="posts">
 							<article>
 								<header>
-									<h2>Dia del Trabajador</h2>
+									<h2>Emabajador ABI</h2>
 								</header>
-								<a href="#" class="image fit"><img src="images/diatrabajo.png" alt="" /></a>
+								<a href="#" class="image fit"><img src="images/calendario operativo.png" alt="" /></a>
+								<p>Felicidades a: </p>
 
 							</article>
 							<article>
 								<header>
-									<h2>Dia de la madre</h2>
+									<h2>Embajador de seguridad</h2>
 								</header>
-								<a href="#" class="image fit"><img src="images/diamadre.png" alt="" /></a>
-
-							</article>
-							<article>
-								<header>
-									<h2>Simulacro de sismo</h2>
-								</header>
-								<a href="#" class="image fit"><img src="images/simulacroSismo.png" alt="" /></a>
-
-							</article>
-							<article>
-								<header>
-									<h2>Charla contra incendios</h2>
-								</header>
-								<a href="#" class="image fit"><img src="images/charlacontraIncendios.png" alt="" /></a>
+								<a href="#" class="image fit"><img src="images/correo mes financiero.png" alt="" /></a>
+								<p>Felicidades a: </p>
 
 							</article>
 							

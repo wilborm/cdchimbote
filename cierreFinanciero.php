@@ -27,10 +27,10 @@
 				<nav id="nav">
 					<ul class="links">
 						<li><a href="index.html">Inicio</a></li>
-						<li><a href="cierreFinanciero.html">Finanzas</a></li>
-						<li class="active"><a href="reconocimientos.html">Reconocimientos</a></li>
-						<li><a href="indicadores.html">Indicadores</a></li>
-						<li><a href="eventos.html">Eventos</a></li>
+						<li class="active"><a href="cierreFinanciero.php">Finanzas</a></li>
+						<li><a href="reconocimientos.php">Reconocimientos</a></li>
+						<li><a href="indicadores.php">Indicadores</a></li>
+						<li><a href="eventos.php">Eventos</a></li>
 					</ul>
 
 				</nav>
@@ -42,28 +42,30 @@
 							<section class="post">
 								<header class="major">
 									<span class="date">Mayo - 2022</span>
-									<h1>Programa de reconocimientos</h1>
-									<p>Felicitaciones a todos los que salieron premiados en las diferentes categorías.</p>
+									<h1>Cierres financieros</h1>
+									<p>Tener en cuenta los plazos del cierre operativo.</p>
 								</header>
-								<div class="image main"><img src="images/reconocimientos.png" alt="" /></div>
+								<div class="image main"><img src="images/cierrefinanciero.png" alt="" /></div>
 							</section>
 
 						<!-- Posts -->
 						<section class="posts">
 							<article>
 								<header>
-									<h2>Emabajador ABI</h2>
+									<h2>Calendario Operativo</h2>
 								</header>
 								<a href="#" class="image fit"><img src="images/calendario operativo.png" alt="" /></a>
-								<p>Felicidades a: </p>
-
+								<p>Revisar las fechas a corde el calendario operativo - Mes Mayo 2022</p>
+								<ul class="actions special">
+									<li><a href="#" class="button">Click Calendario Operativo</a></li>
+								</ul>
 							</article>
 							<article>
 								<header>
-									<h2>Embajador de seguridad</h2>
+									<h2>Cierre financiero - Mayo 2022</h2>
 								</header>
 								<a href="#" class="image fit"><img src="images/correo mes financiero.png" alt="" /></a>
-								<p>Felicidades a: </p>
+								<p>Dar seguimiento al correo enviado sobre el cierre financiero - mayo 2022</p>
 
 							</article>
 							

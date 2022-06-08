@@ -27,10 +27,10 @@
 				<nav id="nav">
 					<ul class="links">
 						<li><a href="index.html">Inicio</a></li>
-						<li><a href="cierreFinanciero.html">Finanzas</a></li>
-						<li><a href="reconocimientos.html">Reconocimientos</a></li>
-						<li class="active"><a href="indicadores.html">Indicadores</a></li>
-						<li><a href="eventos.html">Eventos</a></li>
+						<li><a href="cierreFinanciero.php">Finanzas</a></li>
+						<li><a href="reconocimientos.php">Reconocimientos</a></li>
+						<li class="active"><a href="indicadores.php">Indicadores</a></li>
+						<li><a href="eventos.php">Eventos</a></li>
 					</ul>
 	
 				</nav>
