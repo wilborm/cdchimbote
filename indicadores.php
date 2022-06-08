@@ -43,29 +43,14 @@
 								<header class="major">
 									<span class="date">Mayo - 2022</span>
 									<h1>Resultados de nuestros indicadores</h1>
-									<p>Conoce el progreso de nuestros indicadores a cierre de Mayo - 2022.</p>
+									<p>Conoce el progreso de nuestros indicadores.</p>
 								</header>
+
+								<iframe title="Reporte KPIs v3" width="1024" height="1060" src="https://app.powerbi.com/view?r=eyJrIjoiMGJkZTAwMzctYTE1NC00MmI2LTgxOTYtN2QwYjkxODg2MTFiIiwidCI6IjVjYWExMTEyLWRiYzctNDcwOS1iNTlhLTUzMTVlOGVkNWRhMCJ9&pageName=ReportSection69945c6c00154edcb78c" frameborder="0" allowFullScreen="true"></iframe>
 							</section>
 
 						<!-- Posts -->
-						<section class="posts">
-							<article>
-								<header>
-									<h2>WNP</h2>
-								</header>
-								<a href="#" class="image fit"><img src="images/WNP.png" alt="" /></a>
-
-							</article>
-							<article>
-								<header>
-									<h2>Productividad de Picking</h2>
-								</header>
-								<a href="#" class="image fit"><img src="images/prodpicking.png" alt="" /></a>
-
-							</article>
-							
-							
-						</section>
+			
 
 					</div>
 
