@@ -45,7 +45,6 @@
 									<h1>Programa de reconocimientos</h1>
 									<p>Felicitaciones a todos los que salieron premiados en las diferentes categorías.</p>
 								</header>
-								<div class="image main"><img src="images/reconocimientos.png" alt="" /></div>
 							</section>
 
 						<!-- Posts -->
@@ -54,7 +53,7 @@
 								<header>
 									<h2>Emabajador ABI</h2>
 								</header>
-								<a href="#" class="image fit"><img src="images/embajador abi reconocimiento mayo.png" alt="" /></a>
+								<a href="#" class="image fit"><img src="images/embajador abi reconcimiento mayo.png" alt="" /></a>
 								<p>Felicidades a: Javier Yui </p>
 
 							</article>
