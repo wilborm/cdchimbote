@@ -54,16 +54,23 @@
 								<header>
 									<h2>Emabajador ABI</h2>
 								</header>
-								<a href="#" class="image fit"><img src="images/calendario operativo.png" alt="" /></a>
-								<p>Felicidades a: </p>
+								<a href="#" class="image fit"><img src="images/embajador abi reconocimiento mayo.png" alt="" /></a>
+								<p>Felicidades a: Javier Yui </p>
 
 							</article>
 							<article>
 								<header>
 									<h2>Embajador de seguridad</h2>
 								</header>
-								<a href="#" class="image fit"><img src="images/correo mes financiero.png" alt="" /></a>
-								<p>Felicidades a: </p>
+								<a href="#" class="image fit"><img src="images/embajador seguridad mayo.png" alt="" /></a>
+								<p>Felicidades a: Javier Yui </p>
+
+							</article>
+							<article>
+								<header>
+									<h2>Premio trimestral 5s</h2>
+								</header>
+								<a href="#" class="image fit"><img src="images/5s trimestre.png" alt="" /></a>
 
 							</article>
 							

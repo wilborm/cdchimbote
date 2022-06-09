@@ -50,6 +50,9 @@
 							
 							<h2>Dashboard SCL: CD Chimbote</h2>
 							<iframe title="Reporter SFGLI" width="1024" height="1060" src="https://app.powerbi.com/view?r=eyJrIjoiMzNkZjg3YzYtM2ZjNi00YTM4LTlhYjAtOGQwOTk1YWE2YTk5IiwidCI6IjVjYWExMTEyLWRiYzctNDcwOS1iNTlhLTUzMTVlOGVkNWRhMCJ9&pageName=ReportSectionefbff1271c6b37f1adb9" frameborder="0" allowFullScreen="true"></iframe>
+
+							<h2>Dashboard 5s: CD Chimbote</h2>
+							<iframe title="Reporter 5s v2 - 5s Flota" width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiOTI0YTBiNWYtNGNkMy00YTE1LTg0ZGMtYTA3MWVlNGE2YWY2IiwidCI6IjVjYWExMTEyLWRiYzctNDcwOS1iNTlhLTUzMTVlOGVkNWRhMCJ9" frameborder="0" allowFullScreen="true"></iframe>	
 								</section>
 
 						<!-- Posts -->
