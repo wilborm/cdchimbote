@@ -31,6 +31,7 @@
 						<li><a href="reconocimientos.php">Reconocimientos</a></li>
 						<li class="active"><a href="indicadores.php">Indicadores</a></li>
 						<li><a href="eventos.php">Eventos</a></li>
+						<li><a href="skap.php">SKAP</a></li>
 					</ul>
 	
 				</nav>

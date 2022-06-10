@@ -27,11 +27,11 @@
 				<nav id="nav">
 					<ul class="links">
 						<li><a href="index.php">Inicio</a></li>
-						<li class="active"><a href="cierreFinanciero.php">Finanzas</a></li>
-						<li><a href="reconocimientos.php">Reconocimientos</a></li>
+						<li><a href="cierreFinanciero.php">Finanzas</a></li>
+						<li ><a href="reconocimientos.php">Reconocimientos</a></li>
 						<li><a href="indicadores.php">Indicadores</a></li>
 						<li><a href="eventos.php">Eventos</a></li>
-						<li><a href="skap.php">SKAP</a></li>
+						<li class="active"><a href="skap.php">SKAP</a></li>
 					</ul>
 
 				</nav>
@@ -43,35 +43,12 @@
 							<section class="post">
 								<header class="major">
 									<span class="date">Mayo - 2022</span>
-									<h1>Cierres financieros</h1>
-									<p>Tener en cuenta los plazos del cierre operativo.</p>
+									<h1>Programa SKAP</h1>
+									<p>Dashboard de SKAP.</p>
 								</header>
-								<div class="image main"><img src="images/cierrefinanciero.png" alt="" /></div>
 							</section>
 
-						<!-- Posts -->
-						<section class="posts">
-							<article>
-								<header>
-									<h2>Calendario Operativo</h2>
-								</header>
-								<a href="#" class="image fit"><img src="images/calendario operativo.png" alt="" /></a>
-								<p>Revisar las fechas a corde el calendario operativo - Mes Mayo 2022</p>
-								<ul class="actions special">
-									<li><a href="#" class="button">Click Calendario Operativo</a></li>
-								</ul>
-							</article>
-							<article>
-								<header>
-									<h2>Cierre financiero - Mayo 2022</h2>
-								</header>
-								<a href="#" class="image fit"><img src="images/correo mes financiero.png" alt="" /></a>
-								<p>Dar seguimiento al correo enviado sobre el cierre financiero - mayo 2022</p>
-
-							</article>
-							
-							
-						</section>
+							<iframe title="Reporter SKAP - Principal" width="1024" height="1060" src="https://app.powerbi.com/view?r=eyJrIjoiZGRlMzVmNTgtZDIxZi00MGEyLWEwMzQtNThhNDVjOTk2OTgwIiwidCI6IjVjYWExMTEyLWRiYzctNDcwOS1iNTlhLTUzMTVlOGVkNWRhMCJ9&refresh=5" frameborder="0" allowFullScreen="true"></iframe>
 
 					</div>
 
